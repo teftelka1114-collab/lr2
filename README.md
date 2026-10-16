@@ -1,6 +1,6 @@
 # GPU Hub
 
-![Tests](https://github.com/teftelka1114-collab/lr9-gpu-hub/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/teftelka1114-collab/lr2/actions/workflows/tests.yml/badge.svg)
 
 Прототип интернет-магазина видеокарт: каталог, фильтр по производителю, корзина.
 
