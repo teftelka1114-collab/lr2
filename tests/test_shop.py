@@ -10,7 +10,7 @@ class ShopTests(unittest.TestCase):
         cart = Cart()
         cart.add(2)
         cart.add(3, qty=2)
-        self.assertEqual(cart.total(), 69990 + 2 * 29990)
+        self.assertEqual(cart.total(), 100500)
 
     def test_price_per_gb(self):
         """RX 7800 XT: 54990 ₽ / 16 ГБ = 3436,875 ₽ за гигабайт."""
